@@ -36,3 +36,6 @@ public class Solution {
       return R-L-1;
     }
 }
+
+//input: "babad"
+// output: "aba"
